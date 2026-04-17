@@ -1,0 +1,7 @@
+# Entornos virtuales
+lvenv/
+env/
+
+# Archivos de configuración con contraseñas (¡IMPORTANTE!)
+env
+.env
